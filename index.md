@@ -9,6 +9,11 @@
 var myVar = "Hello, world!";
 ```
 
+- [x] Be an accomplished PhD
+- [x] Be hot
+- [ ] Make a better website
+
 All I've done is make headers
 Now I've added a gif
 Now I'm doing code I guess?
+Task list added
